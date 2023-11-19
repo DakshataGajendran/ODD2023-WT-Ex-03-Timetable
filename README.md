@@ -64,5 +64,5 @@ Execute the program
 ```
 
 # OUPUT
-![output](/ODD2023-WT-Ex-03-Timetable/output.png)
+![Alt text](output.png)
 
