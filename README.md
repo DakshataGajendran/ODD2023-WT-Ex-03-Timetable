@@ -64,5 +64,6 @@ Execute the program
 ```
 
 # OUPUT
-![Alt text](output.png)
+![image](https://github.com/DakshataGajendran/ODD2023-WT-Ex-03-Timetable/assets/145742623/539d41c4-7914-4eea-ac10-3a799704edd7)
+
 
